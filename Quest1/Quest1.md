@@ -1,5 +1,5 @@
 # 🧠 开除老师
-English Version: [HERE](Quest1(ENG).md)
+English Version: [HERE](Quest1/Quest1(ENG).md)
 
 ## 📚 背景介绍
 
