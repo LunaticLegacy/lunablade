@@ -1,4 +1,4 @@
-# 月神杯
+# 🌕 月神杯
 English version: [HERE](README.en.md)
 
 ## 什么是“月神杯”数学建模竞赛？
