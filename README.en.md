@@ -1,12 +1,12 @@
-# 🌕 La Luna Mathematica
+# 🌕 Luna Mathematica
 
 中文版本：[这里](README.md)
 
 ---
 
-## What is *La Luna Mathematica*?
+## What is *Luna Mathematica*?
 
-La Luna Mathematica is a **personally hosted, unofficial modeling competition**.
+Luna Mathematica is a **personally hosted, unofficial modeling competition**.
 
 No prizes, no certificates, no rankings — and honestly, your real name doesn’t even matter.
 
