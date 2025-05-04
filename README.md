@@ -1,5 +1,5 @@
 # 月神杯
-English version: [HERE]((ENG)README.en.md)
+English version: [HERE](README.en.md)
 
 ## 什么是“月神杯”数学建模竞赛？
 月神杯是一个由个人发起的非官方建模比赛。没有奖金、没有证书、没有排名，甚至连你是谁都不重要。
