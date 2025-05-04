@@ -1,4 +1,4 @@
-# 🧠 对抗性评价情境中的策略性集体行为建模
+# 🧠 开除老师
 English Version: [HERE](Quest1(ENG).md)
 
 ## 📚 背景介绍
