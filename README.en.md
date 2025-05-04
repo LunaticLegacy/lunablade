@@ -3,7 +3,7 @@
 中文版本：[这里](README.md)
 
 ## Previous Quests:
-[Quest 1: Reassign your Teacher](Quest1(ENG).md) - 2025/5/4
+[Quest 1: Reassign your Teacher](Quest1/Quest1(ENG).md) - 2025/5/4
 
 ## What is *Luna Mathematica*?
 
