@@ -1,8 +1,8 @@
-# La Luna Mathematic
+# La Luna Mathematica
 中文版本：[这里](README.md)
 
-## What is La Luna Mathematic?
-La Luna Mathematic is a personally hosted, unofficial modeling competition.
+## What is La Luna Mathematica?
+La Luna Mathematica is a personally hosted, unofficial modeling competition.
 
 No prizes, no certificates, no rankings — and frankly, your real name doesn’t even matter.
 
