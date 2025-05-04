@@ -1,5 +1,5 @@
 # 🧠 "Reassign your Teacher"
-中文版本：[这里](Quest1.md)
+中文版本：[这里](Quest1/Quest1.md)
 
 ## 📚 Background
 
