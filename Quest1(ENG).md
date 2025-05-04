@@ -1,4 +1,4 @@
-# 🧠 Modeling Strategic Collective Behavior in an Adversarial Evaluation Scenario
+# 🧠 "Reassign your Teacher"
 中文版本：[这里](Quest1.md)
 
 ## 📚 Background
